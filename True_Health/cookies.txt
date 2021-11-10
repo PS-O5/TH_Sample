@@ -1,5 +1,0 @@
-# HTTrack Website Copier Cookie File
-# This file format is compatible with Netscape cookies
-www.bimagarage.com	TRUE	/	FALSE	1999999999	csrftoken	NFjtq2fIorc5DH1vKDNZLkBvuLyzbVl2fW3TOPJzxd3yhtg0fw4aP29cXNQk3Rt1
-www.bimagarage.com	TRUE	/	FALSE	1999999999	SameSite	Lax
-
